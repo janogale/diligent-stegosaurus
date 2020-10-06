@@ -20,7 +20,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: Learn Most on demand IT Fields
+      - title: Changing Nation with Knowledge
         image: images/successful-potato.jpg
         content: >-
           We are try teach our Youth with programs that focus on ensuring that
