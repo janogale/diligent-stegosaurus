@@ -21,7 +21,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: The Best Feature of Your Services
-        image: images/web-dev.jpg
+        image: images/learning.png
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
