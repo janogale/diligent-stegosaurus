@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/development1.jpg
+    image: images/learn-coding2.png
     title: 'Elmi Academy is a World class IT Training Center in Hargeisa, Somaliland.'
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
