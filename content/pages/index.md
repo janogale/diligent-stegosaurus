@@ -23,9 +23,10 @@ sections:
       - title: Learn Most on demand IT Fields
         image: images/successful-potato.jpg
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          We are try teach our Youth with programs that focus on ensuring that
+          students are taught the principles of information and computation, how
+          digital systems work, and they learn how to put this knowledge to use
+          through programming and software development concepts.
         actions:
           - label: Learn More
             url: /features
