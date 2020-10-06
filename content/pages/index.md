@@ -20,7 +20,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: The Best Feature of Your Services
+      - title: Most on demand IT Fields
         image: images/WebDesign.png
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
