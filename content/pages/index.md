@@ -21,7 +21,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: Learn Most on demand IT Fields
-        image: images/WebDesign.png
+        image: images/successful-potato.jpg
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
