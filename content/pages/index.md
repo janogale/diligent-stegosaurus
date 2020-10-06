@@ -47,7 +47,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: lorem-ipsum
+      - title: ''
         content: >-
           ## Lorem ipsum
 
