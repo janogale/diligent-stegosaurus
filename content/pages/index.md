@@ -32,7 +32,7 @@ sections:
           - label: Learn More
             url: /features
       - title: Awesome Feature of Your Services
-        image: images/happy-apple.jpg
+        image: images/11_thumb.jpg
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
