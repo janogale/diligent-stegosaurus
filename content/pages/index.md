@@ -23,10 +23,11 @@ sections:
       - title: Changing Nation with Knowledge
         image: images/successful-potato.jpg
         content: >-
-          We are try teach our Youth with programs that focus on ensuring that
-          students are taught the principles of information and computation, how
-          digital systems work, and they learn how to put this knowledge to use
-          through programming and software development concepts.
+          We are trying teach our Youth with programs that focus on ensuring
+          that students are taught the principles of information and
+          computation, how digital systems work, and they learn how to put this
+          knowledge to use through programming and software development
+          concepts.
         actions:
           - label: Learn More
             url: /features
