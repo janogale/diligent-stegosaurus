@@ -1,9 +1,7 @@
 ---
 title: Sign Up
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-image: images/11.jpg
+subtitle: This is an optional subtitle. It can be used to describe what this page is about.
+image: images/12.jpg
 layout: page
 ---
 

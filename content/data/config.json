@@ -1,87 +1,91 @@
 {
-    "title": "Stackbit Azimuth Theme",
-    "path_prefix": "/",
-    "palette": "blue",
-    "header": {
-        "title": "Azimuth",
-        "logo_img": "images/elmi logo.jpg",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/"
-            },
-            {
-                "label": "Courses",
-                "url": "/features"
-            },
-            {
-                "label": "Services",
-                "url": "/pricing"
-            },
-            {
-                "label": "Articles",
-                "url": "/style-guide"
-            },
-            {
-                "label": "Join now",
-                "url": "/signup",
-                "primary": true
-            }
-        ]
-    },
-    "footer": {
-        "logo_img": "images/elmi logo.jpg",
-        "tagline": "Elmi Academy",
-        "has_nav": true,
-        "nav_title": "Company",
-        "nav_links": [
-            {
-                "label": "About Us",
-                "url": "/about"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog"
-            },
-            {
-                "label": "Sign Up",
-                "url": "signup"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact"
-            }
-        ],
-        "has_social": true,
-        "social_title": "Social Media Links",
-        "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/Elmicademy",
-                "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/elmiacademy",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "new_window": true
-            }
-        ],
-        "has_subscribe": true,
-        "subscribe_title": "Subscribe",
-        "subscribe_content": "Stay up to date with our latest developments.",
-        "content": "&copy; Elmi Academy. All rights reserved.",
-        "links": [
-            {
-                "label": "Made by Elmi Academy",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
-    }
+  "title": "Elmi Academy",
+  "path_prefix": "/",
+  "palette": "blue",
+  "header": {
+    "title": "Azimuth",
+    "logo_img": "images/elmi logo.jpg",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Courses",
+        "url": "/features"
+      },
+      {
+        "label": "Services",
+        "url": "/pricing"
+      },
+      {
+        "label": "About",
+        "url": "/about"
+      },
+      {
+        "label": "Blog",
+        "url": "/blog"
+      },
+      {
+        "label": "Join now",
+        "url": "/signup",
+        "primary": true
+      }
+    ]
+  },
+  "footer": {
+    "logo_img": "images/elmi logo.jpg",
+    "tagline": "Elmi Academy",
+    "has_nav": true,
+    "nav_title": "Company",
+    "nav_links": [
+      {
+        "label": "About Us",
+        "url": "/about"
+      },
+      {
+        "label": "Blog",
+        "url": "/blog"
+      },
+      {
+        "label": "Sign Up",
+        "url": "signup"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact"
+      }
+    ],
+    "has_social": true,
+    "social_title": "Social Media Links",
+    "social_links": [
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/Elmicademy",
+        "new_window": true
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/elmiacademy",
+        "new_window": true
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/",
+        "new_window": true
+      }
+    ],
+    "has_subscribe": true,
+    "subscribe_title": "Subscribe",
+    "subscribe_content": "Stay up to date with our latest developments.",
+    "content": "&copy; Elmi Academy. All rights reserved.",
+    "links": [
+      {
+        "label": "Made by Elmi Academy",
+        "url": "https://www.stackbit.com",
+        "new_window": true
+      }
+    ]
+  }
 }
